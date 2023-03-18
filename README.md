@@ -11,13 +11,13 @@ Upvote the notebool on kaggle [Covid-19 X-ray using resnet50 | Accuracy 96.26%](
 # Dependencies
 The notebook is written in Python 3 and requires the following dependencies:
 
-tensorflow
-numpy
-pandas
-matplotlib
-scikit-learn
-seaborn
-opencv-python
+- tensorflow
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- seaborn
+
 These dependencies can be installed using pip or conda package managers. The versions used in the development of the notebook are listed in the requirements.txt file.
 
 # Usage
